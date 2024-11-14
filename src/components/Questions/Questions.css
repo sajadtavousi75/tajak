@@ -1,0 +1,20 @@
+.MuiPaper-root {
+    background-color: #519D9E !important;
+    border-radius: 8px !important;
+}
+
+.MuiPaper-root :hover{
+    background-color: #E0EAF1 !important;
+    border-top-left-radius: 8px !important;
+    border-top-right-radius: 8px !important;
+}
+  
+
+.css-yw020d-MuiAccordionSummary-expandIconWrapper{
+    display: none !important;
+}
+
+.css-bz4dnt-MuiCollapse-roo{
+    display: none;
+}
+
